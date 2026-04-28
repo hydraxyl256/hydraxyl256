@@ -31,7 +31,7 @@ I approach engineering with a focus on performance, scalability, and clean archi
 
 ##  Featured Projects
 
-###  Fake News Detection System (NGAO Sentinel)
+###  Fake News Detection System (Factra AI)
 - Built an end-to-end NLP pipeline for classifying news authenticity
 - Implemented data cleaning, feature engineering, and model evaluation
 - Designed API using FastAPI for real-time predictions
